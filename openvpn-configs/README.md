@@ -11,8 +11,7 @@
 5. Connect using your PIV card for authentication
 
 ### PKCS#11 Configuration:
-See in the configuration.
-On Windows, we are using the built in cryptoapicert, on linux, please get OpenSC.
+See in the configuration file.
 
 ## Security Notes
 - Never share your private keys
